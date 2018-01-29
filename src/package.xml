@@ -39,6 +39,23 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>PermissionSetTest123456</members>
+        <members>Permission_Set_6_org1</members>
+        <members>Permission_Set_7_org1</members>
+        <members>Permission_set_1_org1</members>
+        <members>Permission_set_2_org1</members>
+        <members>Permission_set_3_org1</members>
+        <members>Permission_set_4_org1</members>
+        <members>Permission_set_5_org1</members>
+        <members>Permission_sets_Test1</members>
+        <members>org1_set_2</members>
+        <members>org1_set_3</members>
+        <members>org_1_set_1</members>
+        <members>test_app_Developer</members>
+        <members>without_licence</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
